@@ -1,0 +1,25 @@
+Intento: LETRA
+Intento: LETRA
+Intento: FUEGO
+Intento: MUMDO
+¡Ganaste! Palabra: MUNDO
+Intento: GORDO
+Intento: HUEVO
+Intento: JUEGO
+¡Ganaste! Palabra: FUEGO
+Intento: FUEGO
+Intento: PERRO
+Intento: HUEVO
+Intento: PERRO
+Intento: HUEVO
+Intento: FUEGO
+¡Ganaste! Palabra: PERRO
+Intento: FUEGO
+Intento: PERRO
+Intento: HUEVO
+¡Ganaste! Palabra: NUBES
+Intento: HUEVO
+Intento: PERRO
+Intento: NUBES
+Intento: FUEGO
+¡Ganaste! Palabra: HUEVO
